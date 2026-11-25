@@ -1,0 +1,15 @@
+{
+  "version": 20261126,
+  "updated": "2026-11-26",
+  "files": [
+    {
+      "id": "vector",
+      "name": "sa.mbtiles",
+      "description": "خريطة متّجهة (OpenMapTiles z0-13) للسعودية والخليج",
+      "url": "https://github.com/4iShmmri/khatit-maps/releases/download/maps-v1/sa.mbtiles",
+      "bytes": 214736896,
+      "sha256": "d316688131f6ac2eecd6188236bb427d6d02339eb4224321bf1dad01aa0db76b",
+      "required": true
+    }
+  ]
+}
