@@ -10,6 +10,16 @@
       "bytes": 214736896,
       "sha256": "d316688131f6ac2eecd6188236bb427d6d02339eb4224321bf1dad01aa0db76b",
       "required": true
+    },
+    {
+      "id": "roads",
+      "name": "sa_roads.bin",
+      "description": "شبكة طرق السعودية والخليج للتوجيه خطوة بخطوة (A* دون إنترنت)",
+      "url": "https://github.com/4iShmmri/khatit-maps/releases/download/maps-v1/sa_roads.bin",
+      "bytes": 139844751,
+      "sha256": "c7cf3bc0034d81e6599ac45edc8ebeb5417fcef7b446cf683d1aeccc7f3635d7",
+      "version": 1,
+      "required": false
     }
   ]
 }
