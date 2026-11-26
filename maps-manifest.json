@@ -14,11 +14,11 @@
     {
       "id": "roads",
       "name": "sa_roads.bin",
-      "description": "شبكة طرق السعودية والخليج للتوجيه خطوة بخطوة (A* دون إنترنت)",
+      "description": "شبكة طرق السعودية والخليج للتوجيه خطوة بخطوة (A* دون إنترنت، مُبسّطة بحد 12م)",
       "url": "https://github.com/4iShmmri/khatit-maps/releases/download/maps-v1/sa_roads.bin",
-      "bytes": 139844751,
-      "sha256": "c7cf3bc0034d81e6599ac45edc8ebeb5417fcef7b446cf683d1aeccc7f3635d7",
-      "version": 1,
+      "bytes": 108747506,
+      "sha256": "a651f2569dae89597eb054c1209f0d31b8c6dff94b9db1cbe04041489a83d09f",
+      "version": 2,
       "required": false
     }
   ]
